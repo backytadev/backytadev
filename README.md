@@ -26,7 +26,7 @@
 - :rocket: I'm always learning **new technologies** to improve my skills and knowledge.
 - :books: I love building web applications, especially those that **make people's lives easier**.
 - :handshake: I'm currently open to new **job opportunities** to continue growing professionally. 
-- :globe_with_meridians: You can visit my [PORTFOLIO](https://mi-portafolio.com).
+- :globe_with_meridians: You can visit my [PORTFOLIO](https://www.backyta.dev/).
 
 <!-- Connect wuth me -->
 ## <picture> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="85px"> </picture> Connect with me
