@@ -25,8 +25,8 @@
 - :bulb: I'm passionate about **solving problems** and **developing innovative solutions** through technology.
 - :rocket: I'm always learning **new technologies** to improve my skills and knowledge.
 - :books: I love building web applications, especially those that **make people's lives easier**.
-- :handshake: I'm currently open to new **job opportunities** to continue growing professionally. 
-- :globe_with_meridians: You can visit my [PORTFOLIO](https://www.backyta.dev/).
+- :handshake: I'm currently open to new **job opportunities** to continue growing professionally. <br/>
+- 🌐 You can visit my <a href="https://www.backyta.dev/" target="_blank" rel="noopener noreferrer">PORTFOLIO</a>.
 
 <!-- Connect wuth me -->
 ## <picture> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="85px"> </picture> Connect with me
